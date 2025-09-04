@@ -38,7 +38,7 @@ It provides:
 ## 📂 Project Structure  
 
 ```plaintext
-Webapp_patched/
+WorkNest/
 │── pom.xml                          # Maven dependencies
 │── src/main/java/com/worknest/
 │   ├── controller/                  # Controllers (Admin, User, Task, Home)
