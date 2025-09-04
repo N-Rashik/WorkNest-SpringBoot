@@ -38,20 +38,20 @@ It provides:
 ## 📂 Project Structure  
 
 Webapp_patched/
-│── pom.xml                          # Maven dependencies
+│── pom.xml # Maven dependencies
 │── src/main/java/com/worknest/
-│   ├── controller/                  # Controllers (Admin, User, Task, Home)
-│   ├── model/                       # Entities: User, Admin, Task, Comment, Assignment
-│   ├── repo/                        # Repositories (JPA)
-│   ├── service/                     # Services for business logic
-│   └── WorkNestAppApplication.java  # Main entry point
+│ ├── controller/ # Controllers (Admin, User, Task, Home)
+│ ├── model/ # Entities: User, Admin, Task, Comment, Assignment
+│ ├── repo/ # Repositories (JPA)
+│ ├── service/ # Services for business logic
+│ └── WorkNestAppApplication.java # Main entry point
 │
 │── src/main/resources/
-│   ├── application.properties       # Database & App configs
-│   ├── static/                      # CSS, JS, images
-│   └── templates/                   # Thymeleaf HTML templates
+│ ├── application.properties # Database & App configs
+│ ├── static/ # CSS, JS, images
+│ └── templates/ # Thymeleaf HTML templates
 │
-└── .settings, .classpath, .project  # Eclipse project configs
+└── .settings, .classpath, .project # Eclipse project configs
 
 
 ---
