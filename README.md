@@ -37,7 +37,7 @@ It provides:
 
 ## 📂 Project Structure  
 
-WorkNest/
+Webapp_patched/
 │── pom.xml                          # Maven dependencies
 │── src/main/java/com/worknest/
 │   ├── controller/                  # Controllers (Admin, User, Task, Home)
@@ -52,6 +52,7 @@ WorkNest/
 │   └── templates/                   # Thymeleaf HTML templates
 │
 └── .settings, .classpath, .project  # Eclipse project configs
+
 
 ---
 
