@@ -37,7 +37,7 @@ It provides:
 
 ## 📂 Project Structure  
 
-```plaintext
+
 Webapp_patched/
 │── pom.xml                          # Maven dependencies
 │── src/main/java/com/worknest/
@@ -53,6 +53,7 @@ Webapp_patched/
 │   └── templates/                   # Thymeleaf HTML templates
 │
 └── .settings, .classpath, .project  # Eclipse project configs
+
 
 ---
 
