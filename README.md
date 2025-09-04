@@ -53,7 +53,6 @@ Webapp_patched/
 │
 └── .settings, .classpath, .project # Eclipse project configs
 
-
 ---
 
 ## Access the Application
