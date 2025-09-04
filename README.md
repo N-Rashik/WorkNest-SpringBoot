@@ -111,6 +111,18 @@ WorkNest/
 
 ---
 
+## 📸 Screenshots
+
+**🖥️ Admin Dashboard**
+
+<img width="1909" height="903" alt="image" src="https://github.com/user-attachments/assets/d3b1d143-031b-43ca-b479-0c09fe76684b" />
+
+**👤 User Dashboard**
+
+<img width="1916" height="912" alt="image" src="https://github.com/user-attachments/assets/2b586a58-c5fb-491f-af28-3dbeaf120ba3" />
+
+****
+
 
 
 
