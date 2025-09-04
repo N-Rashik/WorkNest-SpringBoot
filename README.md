@@ -121,7 +121,12 @@ WorkNest/
 
 <img width="1916" height="912" alt="image" src="https://github.com/user-attachments/assets/2b586a58-c5fb-491f-af28-3dbeaf120ba3" />
 
-****
+---
+
+## Author
+
+**Rashik N**
+
 
 
 
