@@ -37,7 +37,7 @@ It provides:
 
 ## 📂 Project Structure  
 
-
+```plaintext
 Webapp_patched/
 │── pom.xml                          # Maven dependencies
 │── src/main/java/com/worknest/
@@ -54,7 +54,7 @@ Webapp_patched/
 │
 └── .settings, .classpath, .project  # Eclipse project configs
 
-
+```
 ---
 
 ## Access the Application
