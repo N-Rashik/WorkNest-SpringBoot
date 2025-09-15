@@ -157,7 +157,7 @@ public class AdminController {
         if (user == null) return "redirect:/admin/dashboard";
 
         model.addAttribute("user", user);
-        return "user-form"; // reuse user-form.html
+        return "user-form"; 
     }
 
     // Update existing user
@@ -271,7 +271,7 @@ public class AdminController {
                              @RequestParam List<Long> assignedUserIds,
                              @RequestParam String startDate,
                              @RequestParam String dueDate,
-                             @RequestParam String status,   // ✅ added
+                             @RequestParam String status,  
                              HttpSession session) {
         if (session.getAttribute("admin") == null) return "redirect:/admin/login";
 
@@ -292,7 +292,7 @@ public class AdminController {
             e.printStackTrace();
         }
 
-        task.setStatus(status); // ✅ save selected status
+        task.setStatus(status); 
 
         taskRepository.save(task);
 
